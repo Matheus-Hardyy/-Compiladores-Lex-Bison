@@ -1,0 +1,22 @@
+# Arquivos gerados pelo Flex
+lex.yy.c
+
+# Executáveis compilados (arquivos sem extensão)
+AT1/q1/q1
+AT1/q2/q2
+AT1/q3/q3
+AT1/q4/q4
+
+# Arquivos objeto
+*.o
+
+# Arquivos temporários
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.a
+*.so
+*.dylib
